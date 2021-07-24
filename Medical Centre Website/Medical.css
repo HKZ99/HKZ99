@@ -1,0 +1,53 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+h2 {
+  color: navy;
+  text-align: center;
+  position: absolute;
+  left: 45%;
+  top: 30%;
+  
+}
+h3 {
+  color: navy;
+  text-align: center;
+  position: absolute;
+  left: 30%;
+  top: 40%;
+  font-size: 1.5em;
+  
+}
+
+.btn-group .button {
+   background-color: #4CAF50; /* Green */
+  border: none;
+  color: navy;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  float: left;
+}
+.btn-group .button:hover {
+  background-color: #3e8e41;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: center;
+}
