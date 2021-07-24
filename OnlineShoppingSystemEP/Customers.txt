@@ -1,0 +1,10 @@
+
+ 0 Name: hinesh
+ 0 Surname: kumar
+ 0 Age: 21
+ 0 Phone number: 121
+
+ 1 Name: killua
+ 1 Surname: gon
+ 1 Age: 22
+ 1 Phone number: 212
