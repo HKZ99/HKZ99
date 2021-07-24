@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<menu>
+<food>
+    <name>Zing Zing burger</name>
+    <price>£6.79</price>
+    <description>
+   Comes with fried and a drink
+   </description>
+</food>
+<food>
+    <name>Stach Pick Curry</name>
+    <price>£10.95</price>
+    <description>
+    Hot, spicy curry topped up with rice and vegtables 
+    </description>
+</food>
+<food>
+    <name>Chicken jersey</name>
+    <price>£5.95</price>
+    <description>
+    Spicy chicken which comes with fries and a drink
+    </description>
+</food>
+<food>
+    <name>kappa kappa</name>
+    <price>£5.50</price>
+    <description>
+    Thick slices of lamb
+    </description>
+</food>
+<food>
+    <name>kura nura</name>
+    <price>£8.80</price>
+    <description>
+    Ham, bacon, chicken slices with rice
+    </description>
+</food>
+</menu>

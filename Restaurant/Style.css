@@ -1,0 +1,32 @@
+table#t1{
+width: 400px;
+border: 10px solid #000;
+float: right;
+}
+table#t1 th, td {
+padding: 20px;
+}
+
+table#t2 {
+  width: 25%; 
+  height:50%;
+border: 6px solid black;
+float: left;
+
+}
+table#t2 td{
+padding: 30px;
+border:2px solid black;
+
+}
+table#t2 th {
+  text-align: center;
+}
+table#t3{
+width: 400px;
+border: 10px solid #000;
+float: right;
+}
+table#t3 th, td {
+padding: 20px;
+}
