@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HKZ99
 - 👀 I’m interested in learning new things and putting them into practise
 - 🌱 I currently graduated with a 1st Class Bachelors in Cyber Security and Digital Forensics
-- 💞️ I’m looking a job in: DevOps engineer, Data/Business analyst, Cyber Security, and Cloud Computing
 - 📫 How to reach me hinesh_@hotmail.co.uk
 
 <!---
